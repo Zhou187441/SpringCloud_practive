@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+person:
+  id: 1
+  name: 小周
+  sex: 男
+  age: 30
+  birth: 2018/4/19
